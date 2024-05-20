@@ -4,6 +4,10 @@
 
 Este projeto tem como objetivo comparar o desempenho de diferentes estruturas de dados (vetores, árvores binárias e árvores AVL) em operações de inserção e busca, utilizando diferentes ordens de inserção e tamanhos de conjuntos de dados.
 
+## Linguagens utilizadas
+
+1.Java
+
 ## Estruturas de Dados Utilizadas
 
 1. Vetor
