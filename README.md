@@ -6,7 +6,7 @@ Este projeto tem como objetivo comparar o desempenho de diferentes estruturas de
 
 ## Linguagens utilizadas
 
-1.Java
+1. Java
 
 ## Estruturas de Dados Utilizadas
 
