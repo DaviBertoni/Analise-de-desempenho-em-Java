@@ -100,8 +100,8 @@ Antes de executar o projeto, certifique-se de ter o seguinte instalado em seu si
 1. **Clone o repositório:**
 
    ```sh
-   git clone https://github.com/seuusuario/seurepositorio.git
-   cd seurepositorio
+   git clone https://github.com/DaviBertoni/Analise-de-desempenho-em-Java.git
+   cd analise-de-desempenho-em-java
 2. **Compile os arquivos em Java**
     
     ```sh
